@@ -1,5 +1,5 @@
 # College-Dept-Estimator
-HTML page that uses CSS and JavaScript to estimate college debt that needs to be payed back, 
+HTML page that uses CSS and JavaScript to estimate college debt that needs to be repaid. 
 
 Startup:
 
